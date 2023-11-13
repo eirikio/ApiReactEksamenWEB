@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/scripts/index.js",
+      "PackagePath": "staticwebassets/scripts/index.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Formel1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Formel1API.props",
+      "PackagePath": "build\\Formel1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Formel1API.props",
+      "PackagePath": "buildMultiTargeting\\Formel1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Formel1API.props",
+      "PackagePath": "buildTransitive\\Formel1API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

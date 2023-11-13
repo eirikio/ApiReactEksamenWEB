@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "uxYH3j4YGFvA5l2I5e4icaOhQL9CIs+nznhUEh0BGU8=",
+  "Source": "Formel1API",
+  "BasePath": "_content/Formel1API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Formel1API/wwwroot",
+      "Source": "Formel1API",
+      "ContentRoot": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/.DS_Store",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/index.html",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/scripts/index.js",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "scripts/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/scripts/index.js"
+    }
+  ]
+}

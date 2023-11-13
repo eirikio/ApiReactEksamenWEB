@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Cabin:ital,wght@0,600;1,400&family=Dosis:wght@600&display=swap");
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
