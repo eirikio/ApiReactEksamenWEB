@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/Formel1API.csproj": {}
+    "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj": {}
   },
   "projects": {
-    "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/Formel1API.csproj": {
+    "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/Formel1API.csproj",
+        "projectUniqueName": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj",
         "projectName": "Formel1API",
-        "projectPath": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/Formel1API.csproj",
-        "packagesPath": "/Users/eirikio/.nuget/packages/",
-        "outputPath": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/obj/",
+        "projectPath": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj",
+        "packagesPath": "C:\\Users\\eirik\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/eirikio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\eirik\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

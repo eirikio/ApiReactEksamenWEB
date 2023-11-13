@@ -1,31 +1,115 @@
 {
   "Files": [
     {
-      "Id": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\alexanderalbon.jpg",
+      "PackagePath": "staticwebassets\\images\\alexanderalbon.jpg"
     },
     {
-      "Id": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\carlossainz.jpg",
+      "PackagePath": "staticwebassets\\images\\carlossainz.jpg"
     },
     {
-      "Id": "/Users/eirikio/Documents/CodePower/Skole/År 2/Semester 1/Webutvikling/EksamenWebutvikling/Formel1API/wwwroot/scripts/index.js",
-      "PackagePath": "staticwebassets/scripts/index.js"
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\charlesleclerc.jpg",
+      "PackagePath": "staticwebassets\\images\\charlesleclerc.jpg"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Formel1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\danielricciardo.jpg",
+      "PackagePath": "staticwebassets\\images\\danielricciardo.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\estebanocon.jpg",
+      "PackagePath": "staticwebassets\\images\\estebanocon.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\fernandoalonso.jpg",
+      "PackagePath": "staticwebassets\\images\\fernandoalonso.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\georgerussell.jpg",
+      "PackagePath": "staticwebassets\\images\\georgerussell.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\kevinmagnussen.jpg",
+      "PackagePath": "staticwebassets\\images\\kevinmagnussen.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\lancestroll.jpg",
+      "PackagePath": "staticwebassets\\images\\lancestroll.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\landonorris.jpg",
+      "PackagePath": "staticwebassets\\images\\landonorris.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\lewishamiltor.jpg",
+      "PackagePath": "staticwebassets\\images\\lewishamiltor.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\liamlawson.jpg",
+      "PackagePath": "staticwebassets\\images\\liamlawson.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\logansargeant.jpg",
+      "PackagePath": "staticwebassets\\images\\logansargeant.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\maxverstappen.jpg",
+      "PackagePath": "staticwebassets\\images\\maxverstappen.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\nicohulkenberg.jpg",
+      "PackagePath": "staticwebassets\\images\\nicohulkenberg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\nyckdevries.jpg",
+      "PackagePath": "staticwebassets\\images\\nyckdevries.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\oscarpiastri.jpg",
+      "PackagePath": "staticwebassets\\images\\oscarpiastri.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\pierregasly.jpg",
+      "PackagePath": "staticwebassets\\images\\pierregasly.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\sergioperez.jpg",
+      "PackagePath": "staticwebassets\\images\\sergioperez.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\valterribottas.jpg",
+      "PackagePath": "staticwebassets\\images\\valterribottas.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\yukitsunoda.jpg",
+      "PackagePath": "staticwebassets\\images\\yukitsunoda.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\zhouguanyu.jpg",
+      "PackagePath": "staticwebassets\\images\\zhouguanyu.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\scripts\\index.js",
+      "PackagePath": "staticwebassets\\scripts\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Formel1API.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Formel1API.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Formel1API.props",
       "PackagePath": "build\\Formel1API.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Formel1API.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Formel1API.props",
       "PackagePath": "buildMultiTargeting\\Formel1API.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Formel1API.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Formel1API.props",
       "PackagePath": "buildTransitive\\Formel1API.props"
     }
   ],
