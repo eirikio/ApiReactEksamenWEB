@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MuIZNklGz/Jso++S+0LK3+PFyYoR04f3kdqS4LxqHjY=",
+  "Hash": "PY18Qanw/ClyKkgsprpHYMdj930vrrVCs/OGWSDsy08=",
   "Source": "Formel1API",
   "BasePath": "_content/Formel1API",
   "Mode": "Default",
@@ -8,21 +8,21 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Formel1API\\wwwroot",
+      "Name": "Formel1API/wwwroot",
       "Source": "Formel1API",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\alexanderalbon.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/.DS_Store",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
-      "RelativePath": "images/alexanderalbon.jpg",
+      "RelativePath": ".DS_Store",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,13 +31,98 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\alexanderalbon.jpg"
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\carlossainz.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$Cat03.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "images/$Cat03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/$Cat03.jpg"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$croc.jpeg",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "images/$croc.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/$croc.jpeg"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$F9Sni4zbIAA2tgJ.jpeg",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "images/$F9Sni4zbIAA2tgJ.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/$F9Sni4zbIAA2tgJ.jpeg"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$hallo.jpeg",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "images/$hallo.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/$hallo.jpeg"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/alexalbon.jpg",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "images/alexalbon.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/alexalbon.jpg"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/carlossainz.jpg",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/carlossainz.jpg",
       "AssetKind": "All",
@@ -48,13 +133,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\carlossainz.jpg"
+      "OriginalItemSpec": "wwwroot/images/carlossainz.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\charlesleclerc.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/Cat03.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
+      "BasePath": "_content/Formel1API",
+      "RelativePath": "images/Cat03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/Cat03.jpg"
+    },
+    {
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/charlesleclerc.jpg",
+      "SourceId": "Formel1API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/charlesleclerc.jpg",
       "AssetKind": "All",
@@ -65,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\charlesleclerc.jpg"
+      "OriginalItemSpec": "wwwroot/images/charlesleclerc.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\danielricciardo.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/danielricciardo.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/danielricciardo.jpg",
       "AssetKind": "All",
@@ -82,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\danielricciardo.jpg"
+      "OriginalItemSpec": "wwwroot/images/danielricciardo.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\estebanocon.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/estebanocon.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/estebanocon.jpg",
       "AssetKind": "All",
@@ -99,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\estebanocon.jpg"
+      "OriginalItemSpec": "wwwroot/images/estebanocon.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\fernandoalonso.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/fernandoalonso.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/fernandoalonso.jpg",
       "AssetKind": "All",
@@ -116,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\fernandoalonso.jpg"
+      "OriginalItemSpec": "wwwroot/images/fernandoalonso.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\georgerussell.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/georgerussell.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/georgerussell.jpg",
       "AssetKind": "All",
@@ -133,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\georgerussell.jpg"
+      "OriginalItemSpec": "wwwroot/images/georgerussell.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\kevinmagnussen.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/kevinmagnussen.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/kevinmagnussen.jpg",
       "AssetKind": "All",
@@ -150,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\kevinmagnussen.jpg"
+      "OriginalItemSpec": "wwwroot/images/kevinmagnussen.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\lancestroll.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/lancestroll.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/lancestroll.jpg",
       "AssetKind": "All",
@@ -167,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\lancestroll.jpg"
+      "OriginalItemSpec": "wwwroot/images/lancestroll.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\landonorris.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/landonorris.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/landonorris.jpg",
       "AssetKind": "All",
@@ -184,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\landonorris.jpg"
+      "OriginalItemSpec": "wwwroot/images/landonorris.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\lewishamiltor.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/lewishamilton.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
-      "RelativePath": "images/lewishamiltor.jpg",
+      "RelativePath": "images/lewishamilton.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\lewishamiltor.jpg"
+      "OriginalItemSpec": "wwwroot/images/lewishamilton.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\liamlawson.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/liamlawson.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/liamlawson.jpg",
       "AssetKind": "All",
@@ -218,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\liamlawson.jpg"
+      "OriginalItemSpec": "wwwroot/images/liamlawson.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\logansargeant.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/logansargeant.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/logansargeant.jpg",
       "AssetKind": "All",
@@ -235,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\logansargeant.jpg"
+      "OriginalItemSpec": "wwwroot/images/logansargeant.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\maxverstappen.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/maxverstappen.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/maxverstappen.jpg",
       "AssetKind": "All",
@@ -252,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\maxverstappen.jpg"
+      "OriginalItemSpec": "wwwroot/images/maxverstappen.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\nicohulkenberg.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/nicohulkenberg.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/nicohulkenberg.jpg",
       "AssetKind": "All",
@@ -269,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\nicohulkenberg.jpg"
+      "OriginalItemSpec": "wwwroot/images/nicohulkenberg.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\nyckdevries.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/nyckdevries.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/nyckdevries.jpg",
       "AssetKind": "All",
@@ -286,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\nyckdevries.jpg"
+      "OriginalItemSpec": "wwwroot/images/nyckdevries.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\oscarpiastri.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/oscarpiastri.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/oscarpiastri.jpg",
       "AssetKind": "All",
@@ -303,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\oscarpiastri.jpg"
+      "OriginalItemSpec": "wwwroot/images/oscarpiastri.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\pierregasly.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/pierregasly.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/pierregasly.jpg",
       "AssetKind": "All",
@@ -320,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pierregasly.jpg"
+      "OriginalItemSpec": "wwwroot/images/pierregasly.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\sergioperez.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/sergioperez.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/sergioperez.jpg",
       "AssetKind": "All",
@@ -337,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\sergioperez.jpg"
+      "OriginalItemSpec": "wwwroot/images/sergioperez.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\valterribottas.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/veltteribottas.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
-      "RelativePath": "images/valterribottas.jpg",
+      "RelativePath": "images/veltteribottas.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\valterribottas.jpg"
+      "OriginalItemSpec": "wwwroot/images/veltteribottas.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\yukitsunoda.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/yukitsunoda.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "images/yukitsunoda.jpg",
       "AssetKind": "All",
@@ -371,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\yukitsunoda.jpg"
+      "OriginalItemSpec": "wwwroot/images/yukitsunoda.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\zhouguanyu.jpg",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/zhoucuanyu.jpg",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
-      "RelativePath": "images/zhouguanyu.jpg",
+      "RelativePath": "images/zhoucuanyu.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\zhouguanyu.jpg"
+      "OriginalItemSpec": "wwwroot/images/zhoucuanyu.jpg"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\index.html",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/index.html",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -405,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\scripts\\index.js",
+      "Identity": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/scripts/index.js",
       "SourceId": "Formel1API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\",
+      "ContentRoot": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/",
       "BasePath": "_content/Formel1API",
       "RelativePath": "scripts/index.js",
       "AssetKind": "All",
@@ -422,7 +524,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scripts\\index.js"
+      "OriginalItemSpec": "wwwroot/scripts/index.js"
     }
   ]
 }

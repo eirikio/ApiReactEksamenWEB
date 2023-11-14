@@ -14,6 +14,9 @@ const Navbar = () => {
           <Link to="learn" className="hover:scale-110">
             LEARN
           </Link>
+          <Link to="register" className="hover:scale-110">
+            REGISTER
+          </Link>
           <Link to="about" className="hover:scale-110">
             ABOUT
           </Link>

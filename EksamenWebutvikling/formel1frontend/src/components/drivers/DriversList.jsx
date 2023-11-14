@@ -21,22 +21,28 @@ const DriversList = () => {
 
   const getDriversJSX = () => {
     const driversJSX = drivers.map((_drivers, i) => (
-      <div key={i} className="border border-black w-72 grid grid-cols-1 mx-auto">
-          <div className="flex justify-center">
-        <img src={`http://localhost:5277/images/${_drivers.image}`} alt="" width="200px" />
+      <div
+        key={i}
+        className="mx-auto grid w-72 grid-cols-1 border border-black"
+      >
+        <div className="flex justify-center">
+          <img
+            src={`http://localhost:5277/images/${_drivers.image}`}
+            alt=""
+            width="200px"
+          />
         </div>
-      <DriversItem
-        id={_drivers.id}
-        title={_drivers.name}
-        age={_drivers.age}
-        nationality={_drivers.nationality}
-      />
-
+        <DriversItem
+          id={_drivers.id}
+          title={_drivers.name}
+          age={_drivers.age}
+          nationality={_drivers.nationality}
+        />
       </div>
     ));
     return driversJSX;
   };
-//
+  //
   return (
     <section className="text-center">
       <h3 className="mt-2 text-4xl font-bold">Drivers list</h3>

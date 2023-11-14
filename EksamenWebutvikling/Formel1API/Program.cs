@@ -27,6 +27,8 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+app.UseCors("AllowAll");
+
 app.UseStaticFiles();
 
 // Configure the HTTP request pipeline.
@@ -35,8 +37,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-app.UseCors("AllowAll");
 
 app.UseHttpsRedirection();
 

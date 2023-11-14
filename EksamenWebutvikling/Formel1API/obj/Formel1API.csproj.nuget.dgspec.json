@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj": {}
+    "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/Formel1API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj": {
+    "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/Formel1API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj",
+        "projectUniqueName": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/Formel1API.csproj",
         "projectName": "Formel1API",
-        "projectPath": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\Formel1API.csproj",
-        "packagesPath": "C:\\Users\\eirik\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\obj\\",
+        "projectPath": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/Formel1API.csproj",
+        "packagesPath": "/Users/eirikio/.nuget/packages/",
+        "outputPath": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eirik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/eirikio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

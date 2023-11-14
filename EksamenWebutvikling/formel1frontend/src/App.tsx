@@ -1,5 +1,11 @@
 import Navbar from "./components/shared/Navbar";
-import { HomePage, GamePage, LearnPage, AboutPage } from "./pages";
+import {
+  HomePage,
+  GamePage,
+  LearnPage,
+  RegisterPage,
+  AboutPage,
+} from "./pages";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
@@ -11,6 +17,7 @@ function App() {
           <Route path="/" element={<HomePage />}></Route>
           <Route path="game" element={<GamePage />}></Route>
           <Route path="learn" element={<LearnPage />}></Route>
+          <Route path="register" element={<RegisterPage />}></Route>
           <Route path="about" element={<AboutPage />}></Route>
         </Routes>
       </BrowserRouter>

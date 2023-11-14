@@ -1,23 +1,23 @@
-const DriversItem = ({id, title, age, nationality, image }) => {
+const DriversItem = ({ id, title, age, nationality, image }) => {
   return (
     <article>
-        <div>{id}.</div>
-        <div>
-          <span className="font-bold">Driver: </span>
-          <br />
-          {title}
-        </div>
-        <div>
-          <span className="font-bold">Age: </span>
-          <br />
-          {age}
-        </div>
-        <div>
-          <span className="font-bold">Nationality: </span>
-          <br />
-          {nationality}
-        </div>
-        <div>{image}</div>
+      <div>{id}.</div>
+      <div>
+        <span className="font-bold">Driver: </span>
+        <br />
+        {title}
+      </div>
+      <div>
+        <span className="font-bold">Age: </span>
+        <br />
+        {age}
+      </div>
+      <div>
+        <span className="font-bold">Nationality: </span>
+        <br />
+        {nationality}
+      </div>
+      <div>{image}</div>
     </article>
   );
 };
@@ -48,8 +48,5 @@ export default DriversItem;
         </article>
         <img src={`http://localhost:5277/images/${_drivers.image}`} alt="" width="200px" />
       </div>
-
-
-
 
 */

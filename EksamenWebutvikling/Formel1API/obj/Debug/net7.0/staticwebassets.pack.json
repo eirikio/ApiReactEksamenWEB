@@ -1,115 +1,139 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\alexanderalbon.jpg",
-      "PackagePath": "staticwebassets\\images\\alexanderalbon.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\carlossainz.jpg",
-      "PackagePath": "staticwebassets\\images\\carlossainz.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$Cat03.jpg",
+      "PackagePath": "staticwebassets/images/$Cat03.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\charlesleclerc.jpg",
-      "PackagePath": "staticwebassets\\images\\charlesleclerc.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$F9Sni4zbIAA2tgJ.jpeg",
+      "PackagePath": "staticwebassets/images/$F9Sni4zbIAA2tgJ.jpeg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\danielricciardo.jpg",
-      "PackagePath": "staticwebassets\\images\\danielricciardo.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$croc.jpeg",
+      "PackagePath": "staticwebassets/images/$croc.jpeg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\estebanocon.jpg",
-      "PackagePath": "staticwebassets\\images\\estebanocon.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$hallo.jpeg",
+      "PackagePath": "staticwebassets/images/$hallo.jpeg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\fernandoalonso.jpg",
-      "PackagePath": "staticwebassets\\images\\fernandoalonso.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/Cat03.jpg",
+      "PackagePath": "staticwebassets/images/Cat03.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\georgerussell.jpg",
-      "PackagePath": "staticwebassets\\images\\georgerussell.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/alexalbon.jpg",
+      "PackagePath": "staticwebassets/images/alexalbon.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\kevinmagnussen.jpg",
-      "PackagePath": "staticwebassets\\images\\kevinmagnussen.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/carlossainz.jpg",
+      "PackagePath": "staticwebassets/images/carlossainz.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\lancestroll.jpg",
-      "PackagePath": "staticwebassets\\images\\lancestroll.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/charlesleclerc.jpg",
+      "PackagePath": "staticwebassets/images/charlesleclerc.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\landonorris.jpg",
-      "PackagePath": "staticwebassets\\images\\landonorris.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/danielricciardo.jpg",
+      "PackagePath": "staticwebassets/images/danielricciardo.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\lewishamiltor.jpg",
-      "PackagePath": "staticwebassets\\images\\lewishamiltor.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/estebanocon.jpg",
+      "PackagePath": "staticwebassets/images/estebanocon.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\liamlawson.jpg",
-      "PackagePath": "staticwebassets\\images\\liamlawson.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/fernandoalonso.jpg",
+      "PackagePath": "staticwebassets/images/fernandoalonso.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\logansargeant.jpg",
-      "PackagePath": "staticwebassets\\images\\logansargeant.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/georgerussell.jpg",
+      "PackagePath": "staticwebassets/images/georgerussell.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\maxverstappen.jpg",
-      "PackagePath": "staticwebassets\\images\\maxverstappen.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/kevinmagnussen.jpg",
+      "PackagePath": "staticwebassets/images/kevinmagnussen.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\nicohulkenberg.jpg",
-      "PackagePath": "staticwebassets\\images\\nicohulkenberg.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/lancestroll.jpg",
+      "PackagePath": "staticwebassets/images/lancestroll.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\nyckdevries.jpg",
-      "PackagePath": "staticwebassets\\images\\nyckdevries.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/landonorris.jpg",
+      "PackagePath": "staticwebassets/images/landonorris.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\oscarpiastri.jpg",
-      "PackagePath": "staticwebassets\\images\\oscarpiastri.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/lewishamilton.jpg",
+      "PackagePath": "staticwebassets/images/lewishamilton.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\pierregasly.jpg",
-      "PackagePath": "staticwebassets\\images\\pierregasly.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/liamlawson.jpg",
+      "PackagePath": "staticwebassets/images/liamlawson.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\sergioperez.jpg",
-      "PackagePath": "staticwebassets\\images\\sergioperez.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/logansargeant.jpg",
+      "PackagePath": "staticwebassets/images/logansargeant.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\valterribottas.jpg",
-      "PackagePath": "staticwebassets\\images\\valterribottas.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/maxverstappen.jpg",
+      "PackagePath": "staticwebassets/images/maxverstappen.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\yukitsunoda.jpg",
-      "PackagePath": "staticwebassets\\images\\yukitsunoda.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/nicohulkenberg.jpg",
+      "PackagePath": "staticwebassets/images/nicohulkenberg.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\images\\zhouguanyu.jpg",
-      "PackagePath": "staticwebassets\\images\\zhouguanyu.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/nyckdevries.jpg",
+      "PackagePath": "staticwebassets/images/nyckdevries.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/oscarpiastri.jpg",
+      "PackagePath": "staticwebassets/images/oscarpiastri.jpg"
     },
     {
-      "Id": "D:\\Projects\\ApiReactEksamenWEB\\EksamenWebutvikling\\Formel1API\\wwwroot\\scripts\\index.js",
-      "PackagePath": "staticwebassets\\scripts\\index.js"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/pierregasly.jpg",
+      "PackagePath": "staticwebassets/images/pierregasly.jpg"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Formel1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/sergioperez.jpg",
+      "PackagePath": "staticwebassets/images/sergioperez.jpg"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/veltteribottas.jpg",
+      "PackagePath": "staticwebassets/images/veltteribottas.jpg"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/yukitsunoda.jpg",
+      "PackagePath": "staticwebassets/images/yukitsunoda.jpg"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/zhoucuanyu.jpg",
+      "PackagePath": "staticwebassets/images/zhoucuanyu.jpg"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/scripts/index.js",
+      "PackagePath": "staticwebassets/scripts/index.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Formel1API.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Formel1API.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Formel1API.props",
       "PackagePath": "build\\Formel1API.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Formel1API.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Formel1API.props",
       "PackagePath": "buildMultiTargeting\\Formel1API.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Formel1API.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Formel1API.props",
       "PackagePath": "buildTransitive\\Formel1API.props"
     }
   ],
