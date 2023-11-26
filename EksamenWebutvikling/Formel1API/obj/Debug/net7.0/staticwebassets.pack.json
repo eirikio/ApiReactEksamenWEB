@@ -5,20 +5,28 @@
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$Cat03.jpg",
-      "PackagePath": "staticwebassets/images/$Cat03.jpg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
     },
     {
-      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$F9Sni4zbIAA2tgJ.jpeg",
-      "PackagePath": "staticwebassets/images/$F9Sni4zbIAA2tgJ.jpeg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/css/about.css",
+      "PackagePath": "staticwebassets/css/about.css"
     },
     {
-      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$croc.jpeg",
-      "PackagePath": "staticwebassets/images/$croc.jpeg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/css/docs.css",
+      "PackagePath": "staticwebassets/css/docs.css"
     },
     {
-      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/$hallo.jpeg",
-      "PackagePath": "staticwebassets/images/$hallo.jpeg"
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/docs.html",
+      "PackagePath": "staticwebassets/docs.html"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
       "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/Cat03.jpg",
@@ -41,8 +49,16 @@
       "PackagePath": "staticwebassets/images/danielricciardo.jpg"
     },
     {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/eirik.jpg",
+      "PackagePath": "staticwebassets/images/eirik.jpg"
+    },
+    {
       "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/estebanocon.jpg",
       "PackagePath": "staticwebassets/images/estebanocon.jpg"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/f1cursor.png",
+      "PackagePath": "staticwebassets/images/f1cursor.png"
     },
     {
       "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/images/fernandoalonso.jpg",
@@ -115,6 +131,10 @@
     {
       "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/scripts/docs.js",
+      "PackagePath": "staticwebassets/scripts/docs.js"
     },
     {
       "Id": "/Users/eirikio/Documents/GitHub/ApiReactEksamenWEB/EksamenWebutvikling/Formel1API/wwwroot/scripts/index.js",

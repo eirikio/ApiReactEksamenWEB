@@ -1,11 +1,15 @@
-import { useState, useEffect } from "react";
-import DriverService from "../../services/DriverService";
+import { useState, useEffect, useContext } from "react";
+import { DriversContext } from "../../contexts/DriversContext";
 
 const DriversAdd = () => {
+  const { postNewDriver } = useContext(DriversContext);
+
   const [name, setName] = useState("");
   const [age, setAge] = useState(0);
   const [nationality, setNationality] = useState("");
   const [image, setImage] = useState(null);
+
+  const [statusMessage, setStatusMessage] = useState("");
 
   const handleChange = (e) => {
     switch (e.currentTarget.name) {
@@ -31,44 +35,65 @@ const DriversAdd = () => {
       nationality: nationality,
       image: image.name,
     };
-    DriverService.postNewDriver(newDriver, image);
+    postNewDriver(newDriver, image);
+    setStatusMessage(
+      `${newDriver.name} has successfully been registered to the system`,
+    );
+
+    setTimeout(() => {
+      setStatusMessage("");
+    }, 2000);
   };
 
   return (
-    <section>
-      <h3>Register a new driver</h3>
-      <div>
-        <label>Drivers name:</label>
-        <input
-          className="border"
-          name="name"
-          onChange={handleChange}
-          type="text"
-        />
-        <div>
-          <label>Drivers Age:</label>
+    <section className="w-[450px mt-10">
+      <h3 className="text-2xl font-bold">Register a new driver</h3>
+      <div className="mt-5">
+        <div className="flex w-40 flex-col">
+          <label>Name:</label>
           <input
-            className="border"
+            className="border border-black"
+            name="name"
+            onChange={handleChange}
+            type="text"
+          />
+        </div>
+        <div className="mt-4 flex w-40 flex-col">
+          <label>Age:</label>
+          <input
+            className="border border-black "
             name="age"
             onChange={handleChange}
             type="number"
           />
         </div>
-        <div>
-          <label>Drivers nationality:</label>
+        <div className="mt-4 flex w-40 flex-col">
+          <label>Nationality:</label>
           <input
-            className="border"
+            className="border border-black"
             name="nationality"
             onChange={handleChange}
             type="text"
           />
         </div>
       </div>
-      <div>
-        <label>Drivers image:</label>
-        <input name="image" onChange={handleChange} type="file" />
+      <div className="mt-4 flex w-40 flex-col">
+        <label>Image:</label>
+        <div className="w-56 bg-white">
+          <input name="image" onChange={handleChange} type="file" />
+        </div>
       </div>
-      <input onClick={saveDrivers} type="button" value="Save driver" />
+      <button
+        className="mt-5 cursor-pointer rounded border border-black bg-blue-500 pb-2 pl-4 pr-4 pt-2 font-bold text-white hover:bg-blue-600 active:bg-blue-400"
+        onClick={saveDrivers}
+      >
+        Save
+      </button>
+      <div>
+        {statusMessage && (
+          <p className="absolute text-green-600">{statusMessage}</p>
+        )}
+      </div>
     </section>
   );
 };

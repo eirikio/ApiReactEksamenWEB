@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.0/axios.min.js"></script>
+    <link rel="stylesheet" href="./css/docs.css" />
+    <script type="module" src="./scripts/docs.js"></script>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div class="navbar__logo">
+          <img src="images/f1cursor.png" alt="Navbar F1 logo. Photo." />
+        </div>
+        <ul class="navbar__ul">
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./docs.html">Docs</a></li>
+          <li><a href="./about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="get-all__section">
+        <div class="get-all__url-container">
+          <div class="get-all__endpoint-url">http://www.formula1API.com</div>
+          <div class="get-all__endpoint-call">/api/drivers</div>
+        </div>
+
+        <div class="get-all__result-container">
+          <h4>
+            Note: The endpoint URL is fictional. use "http://localhost:"your
+            port"
+          </h4>
+          <h1>Result:</h1>
+
+          <div class="get-all__result">JSON</div>
+        </div>
+      </section>
+
+      <section class="get-by-id__section">
+        <div class="get-by-id__url-container">
+          <div class="get-by-id__endpoint-url">
+            http://www.formula1API.com/api/drivers/
+          </div>
+          <div class="get-by-id__endpoint-call">
+            <input class="get-by-id__input" type="number" placeholder="1" />
+            <input class="get-by-id__button" type="button" value="Request" />
+          </div>
+        </div>
+
+        <div class="get-by-id__result-container">
+          <h4>Test the endpoint for getting drivers by Id</h4>
+          <h1>Result:</h1>
+
+          <div class="get-by-id__result"></div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

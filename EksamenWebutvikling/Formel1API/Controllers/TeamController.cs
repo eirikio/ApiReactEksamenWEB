@@ -7,7 +7,6 @@ using Formel1API.Models;
 
 [ApiController]
 [Route("api/[controller]")]
-
 public class TeamsController : ControllerBase
 {
     private readonly Formel1Context formel1Context;
@@ -20,10 +19,16 @@ public class TeamsController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<List<Team>>> Get()
     {
-        List<Team> teams = await formel1Context.Teams.ToListAsync();
-        return teams;
+        try
+        {
+            List<Team> teams = await formel1Context.Teams.ToListAsync();
+            return teams;
+        }
+        catch
+        {
+            return StatusCode(500);
+        }
     }
-
 
     [HttpGet("{id}")]
     public async Task<ActionResult<Team>> Get(int id)
@@ -49,28 +54,49 @@ public class TeamsController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<Team>> Post(Team newTeam)
     {
-        formel1Context.Teams.Add(newTeam);
-        await formel1Context.SaveChangesAsync();
-        return CreatedAtAction("Get", new {id = newTeam.Id}, newTeam);
+        try
+        {
+            formel1Context.Teams.Add(newTeam);
+            await formel1Context.SaveChangesAsync();
+            return CreatedAtAction("Get", new { id = newTeam.Id }, newTeam);
+        }
+        catch
+        {
+            return StatusCode(500);
+        }
     }
 
-    [HttpDelete]
+    [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id)
     {
-        Team? team = await formel1Context.Teams.FindAsync(id);
-        if (team != null) {
-            formel1Context.Teams.Remove(team);
-            await formel1Context.SaveChangesAsync();
+        try
+        {
+            Team? team = await formel1Context.Teams.FindAsync(id);
+            if (team != null)
+            {
+                formel1Context.Teams.Remove(team);
+                await formel1Context.SaveChangesAsync();
+            }
+            return NoContent();
         }
-        return NoContent();
+        catch
+        {
+            return StatusCode(500);
+        }
     }
 
     [HttpPut]
     public async Task<IActionResult> Put(Team editedTeam)
     {
-        formel1Context.Entry(editedTeam).State = EntityState.Modified;
-        await formel1Context.SaveChangesAsync();
-        return NoContent();
+        try
+        {
+            formel1Context.Entry(editedTeam).State = EntityState.Modified;
+            await formel1Context.SaveChangesAsync();
+            return NoContent();
+        }
+        catch
+        {
+            return StatusCode(500);
+        }
     }
-
 }

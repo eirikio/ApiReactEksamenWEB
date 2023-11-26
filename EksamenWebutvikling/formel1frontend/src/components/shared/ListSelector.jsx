@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import DriversList from "../drivers/DriversList";
 import RacesList from "../races/RacesList";
 import TeamsList from "../teams/TeamsList";
@@ -6,8 +6,8 @@ import TeamsList from "../teams/TeamsList";
 const ListSelector = () => {
   const [selectedList, setSelectedList] = useState("drivers");
 
-  const handleDropdownChange = (event) => {
-    setSelectedList(event.target.value);
+  const handleDropdownChange = (e) => {
+    setSelectedList(e.currentTarget.value);
   };
 
   const renderSelectedList = () => {
