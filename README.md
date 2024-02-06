@@ -1,5 +1,8 @@
 # ApiReactEksamenWEB
 
+Karakter A
+
+
 ### 1. Åpne React prosjektet og skriv npm install for å få dependencies.
 
 ### 2. Gå inn på DriverService, RaceService, TeamService i React prosjektet å endre driverController og imageUploadController til localhost:"bytt ut port" addresse. Dette må gjøres på RaceService og TeamService også.
